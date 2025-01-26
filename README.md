@@ -1,2 +1,2 @@
 # ESSegNeXt
-扩展的segnext高分辨率建筑与提取算法
+Precise Building Extraction Method for High-Resolution Remote Sensing Images Based on the Extension SamGeo and SegNeXt Networks
