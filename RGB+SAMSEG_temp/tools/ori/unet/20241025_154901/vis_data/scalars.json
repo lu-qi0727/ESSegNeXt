@@ -1,0 +1,1 @@
+{"lr": 0.01, "data_time": 0.0026580492655436196, "loss": 0.43045930564403534, "decode.loss_dice": 0.310829554994901, "decode.acc_seg": 100.0, "decode.boundary": 0.0, "aux.loss_dice": 0.11962974319855373, "aux.acc_seg": 99.99456787109375, "aux.boundary": 0.0, "time": 4.595718622207642, "iter": 6, "memory": 21650, "step": 6}
